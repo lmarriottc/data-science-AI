@@ -1,0 +1,4 @@
+1. Data cleaning: removing NaN values
+2. Data preprocessing: scaling, encoding
+3. Training and evaluating model
+4. Hyperparameter tuning with GridSearchCV
