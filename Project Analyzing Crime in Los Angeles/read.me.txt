@@ -1,0 +1,4 @@
+Exploratory Data Analysis
+Feature Engineering
+Data visualization
+Data wrangling
