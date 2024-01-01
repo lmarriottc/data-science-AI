@@ -1,0 +1,1 @@
+Changing data types into categories and filtering as specified
