@@ -1,0 +1,9 @@
+Load text files 
+Tokeninze
+Lemmanize/Stem
+Build a Bag of Words
+Build a Tfidf Model
+Compute a Similaruty Matrix
+Define which books have more similarity and post it on a bar graph
+Define similar content between books and make a dendogram
+
