@@ -1,0 +1,3 @@
+Data cleaning
+Logistic regression with Statsmodel
+Accuracy metrics
