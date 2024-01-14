@@ -1,0 +1,4 @@
+RNN using pytorch 
+Classifying clothes
+Accuracy, Recall and Prediction metrics were obtained
+Dataset too large for Github disk space, isn't included
